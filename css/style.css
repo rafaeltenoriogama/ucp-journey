@@ -66,6 +66,7 @@ span {
 .inside-container h2 {
   align-self: center;
   color: black;
+  font-size: 22px;
 }
 
 .title {
@@ -87,6 +88,7 @@ h2 {
   font-weight: bold;
   font-size: 3rem;
   color: whitesmoke;
+  margin-top: 0;
 }
 
 #cuttery2 {
